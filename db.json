@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "age": "",
+      "id": 1
+    },
+    {
+      "email": "caio@gmail.com",
+      "password": "$2a$10$t3uU0XZ6a.vmFh7IZjFNROa.PBM7Q4TESdalceawilt9HPNrxIwGS",
+      "id": 2
+    },
+    {
+      "email": "caido@gmail.com",
+      "password": "$2a$10$YhKAdNOBcVYWcNRv2cXQ/.C5YuUTODqx56EGeIdzrekznwQZfReLa",
+      "id": 3
+    },
+    {
+      "email": "caiado@gmail.com",
+      "password": "$2a$10$tc85xA6BKtVT0UJMUsd.euODjtcrdwvS5FrIFOKw2H.aWLgDBtYcO",
+      "name": "caio",
+      "id": 4
+    },
+    {
+      "email": "caiasdo@gmail.com",
+      "password": "$2a$10$2ZiaeI5k.pZ6Vowhjk/8t.kTf2Ioog08uPmWjtKHcT/oGAO1Ir5fG",
+      "name": "caio",
+      "id": 5
+    },
+    {
+      "email": "caiasdo@gsmail.com",
+      "password": "$2a$10$3PdYW.fGNJakBonfycjS3uTGyLnZcola0pzFjuayEcx0MgCosKOym",
+      "name": "caio",
+      "id": 6
+    }
+  ],
+  "users_corp": [
+    {
+      "cnpj": ""
+    }
+  ]
+}
